@@ -10,11 +10,6 @@ This project is a simple university grading system written in JavaScript.
 - `main.js` connects all files and prints the report.
 - `package.json` lets the project use ES modules.
 
-## Running the Project
-
-```bash
-npm start
-```
 
 ## Challenges
 
